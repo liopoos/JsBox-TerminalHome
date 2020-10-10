@@ -2,7 +2,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/mayuko2012/TerminalHome)](https://github.com/mayuko2012/TerminalHome/issues) [![GitHub license](https://img.shields.io/github/license/mayuko2012/TerminalHome)](https://github.com/mayuko2012/TerminalHome)
 
-A simple terminal home widget for iOS 14.
+A terminal JsBox home widget for iOS 14.
 
 
 
@@ -22,7 +22,11 @@ A simple terminal home widget for iOS 14.
 
 ## Config
 
-You can modify the setting in `assets/config.json`.
+You can modify the setting in `assets/config.json`:
+
+- user: username liked 'user@hades:~'
+- fans: support weibo and github
+- expire: widget next refresh time
 
 
 
