@@ -19,14 +19,17 @@ A terminal JsBox home widget for iOS 14.
 
 
 
-
 ## Config
+
 
 You can modify the setting in `assets/config.json`:
 
 - user: username liked 'user@hades:~'
 - fans: support weibo and github
 - expire: widget next refresh time
+
+fans data use [substate](https://substats.spencerwoo.com/).
+
 
 
 
